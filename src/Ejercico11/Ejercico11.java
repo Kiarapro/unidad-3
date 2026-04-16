@@ -4,10 +4,12 @@ import java.util.Scanner;
 
 public class Ejercico11 {
 	static Scanner entrada = new Scanner(System.in);
+	
 	static double montoIgresado;
 	static int opcionElegida;
 	static double saldoActual = 100;
     static double montoADepositar;
+    
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -21,6 +23,7 @@ public class Ejercico11 {
 	private static void mostrarMenu() {
 		// TODO Auto-generated method stub
 	
+				
 		do {
 
 			System.out.println("Elija una opción:");
