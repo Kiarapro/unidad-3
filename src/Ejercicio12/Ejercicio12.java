@@ -6,7 +6,6 @@ public class Ejercicio12 {
 	
 	static Scanner entrada = new Scanner(System.in);
 	
-
 	public static void main(String[] args) {
 		
 		double numeroIngresado = ingresoNum();

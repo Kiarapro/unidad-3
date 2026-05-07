@@ -33,7 +33,6 @@ public class Ejercicio10 {
 	}
 
 	private static void validarDatos() {
-		// TODO Auto-generated method stub
 
 		while (precio < 0) {
 
